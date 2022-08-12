@@ -24,15 +24,11 @@ h3 {
 }
 
 .middle-container {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
+
 }
 
 .bottom-container {
-  height: 200px;
-  width: 200px;
-  background-color: red;
+
 }
 
 .top-cloud {
@@ -45,4 +41,13 @@ h3 {
   position: absolute;
   left: 35%;
   bottom: 300px;
+}
+
+.my-picture {
+  border-radius: 100%;
+}
+
+.skill-image {
+  width: 100px;
+  size: 100px;
 }
